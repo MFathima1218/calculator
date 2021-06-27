@@ -1,0 +1,38 @@
+body{
+    align-items: center;
+}
+.container{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(194, 126, 154);
+    align-items: center;
+    color: snow;
+    margin-left: 400px ;
+    border-radius: 20px;
+}
+.box{
+    align-items: center;
+    display: block;
+     margin:40px ;
+
+}
+h1 {
+    text-align: center;
+    padding-top: 30px;
+}
+.son{
+    text-align: center;
+}
+.cal{
+    margin-left: 40px;
+}
+#value1 {
+border-radius: 30px;
+border: none;
+margin: 10px;
+}
+#value2{
+    margin: 10px;
+    border-radius: 30px;
+border: none;
+}
